@@ -1,3 +1,3 @@
 # Python Projects
 
-Scripts for CS190 Scalable Machine Learning course at U.C. BerkeleyX.
+Scripts for CS 190.1X Scalable Machine Learning course at U.C. BerkeleyX.
