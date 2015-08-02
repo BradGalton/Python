@@ -6,6 +6,6 @@ Scripts adapted from CS 190.1X Scalable Machine Learning course labs at U.C. Ber
 
 2) PCA Neural: PCA dimensionality reduction of neural activity in zebra fish from light-sheet microscopy data by Ahrens Lab.
 
-3) NASA LogData: Parsing of NASA web server log data and various analytical measures of interest.
+3) NASA Logs: Parsing of NASA web server log data and various analytical measures of interest.
 
 4) MillionSong LinReg: Linear regression of normalized features to predict song year from Million Song dataset from UCI Machine Learning Lab. 
